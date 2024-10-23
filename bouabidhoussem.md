@@ -1,0 +1,1 @@
+il ecrit dedans trois phrases de son choix sans ponctuation ni majuscules enfin il commit sur le projet par le biais de lextension visuelle
